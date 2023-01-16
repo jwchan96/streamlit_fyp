@@ -1,0 +1,12 @@
+Data Fields,Significance
+User ID,  An ID that represnet a registred customer in the platform/shop within the test set.
+Product ID,An unique id for each product that bought by the customer 
+Gender ,Sex of the registered customer (M for Male; F for Female)
+Age ,Age of the customer 
+Occupation ,Customer's Occupation (0-20)
+City Category ," Category of the city whether it was A, B or C"
+Stay_In_Current_City_Years,The number of years stay in current city. 
+Maritial Status ,Martial Status of customer whether 0 is single and 1 is married
+Product_Category_1,Product Category (Masked)
+Product_Category_2,Product may belongs to other category also (Masked)
+Product_Category_3,Product may belongs to other category also (Masked)
